@@ -1,0 +1,17 @@
+openai==1.3.0
+langgraph==0.0.20
+langchain==0.1.0
+python-dotenv==1.0.0
+mem0ai==0.1.0
+typing-extensions==4.8.0 
+
+cd "C:\Users\DELL INSPIRON\OneDrive\Documents\learning-companion"
+rm -r .git
+git init
+git config user.name "Wafee"
+git config user.email "alinoorwafee@gmail.com"
+git add .
+git commit -m "Initial learning companion"
+git remote add origin https://github.com/Wafee08/learning-companion.git
+git branch -M main
+git push -u origin main
