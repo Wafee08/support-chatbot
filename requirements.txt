@@ -6,12 +6,3 @@ mem0ai==0.1.0
 typing-extensions==4.8.0 
 
 
-rm -r .git
-git init
-git config user.name "Wafee"
-git config user.email "alinoorwafee@gmail.com"
-git add .
-git commit -m "Initial learning companion"
-git remote add origin https://github.com/Wafee08/learning-companion.git
-git branch -M main
-git push -u origin main
