@@ -5,7 +5,7 @@ python-dotenv==1.0.0
 mem0ai==0.1.0
 typing-extensions==4.8.0 
 
-cd "C:\Users\DELL INSPIRON\OneDrive\Documents\learning-companion"
+
 rm -r .git
 git init
 git config user.name "Wafee"
